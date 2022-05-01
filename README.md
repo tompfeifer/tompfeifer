@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tompfeifer
 - 👀 I’m interested mostly in C# and Python.
-- 🌱 I’m currently learning still C# and Python...
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently learning still C# and Python... Oh, and currently trying Proxmox
+- 💞️ I’m looking to collaborate nothing yet.
 - 📫 How to reach me: -
 
 <!---
